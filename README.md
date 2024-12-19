@@ -36,6 +36,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img  alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=gowtham-mohandass&show_icons=true&locale=en&theme=codeSTACKr" /> <img  alt="Coding" width="421" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham-mohandass&theme=dark&hide_border=true" />
 
 
